@@ -7,7 +7,7 @@
     "2 7-19/6 * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJMC.js, tag=东东萌宠-自建, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true",
     "1 0 * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJMH.js, tag=京东盲盒-自建 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_wechat_sign.png, enabled=true",
     "7 6-18/6 * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJNC.JS, tag=东东农场-自建, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png, enabled=true",
-    "1 6-21/1 * * * hhttps://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJZD.js, tag=京东种豆得豆-自建, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
+    "1 6-21/1 * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJZD.js, tag=京东种豆得豆-自建, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
     "8 * * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/XJJC.js, tag=京喜工厂-自建, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
 
     
