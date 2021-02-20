@@ -10,7 +10,7 @@
     "1 6-21/1 * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJZD.js, tag=京东种豆得豆-自建, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
     "8 * * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/XJJC.js, tag=京喜工厂-自建, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
     "11 1-23/5 * * * https://raw.githubusercontent.com/dajijiyangmao/UFO/main/HAOYANGMAO/DJSM.js, tag=京小超-自建, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
-
+    "0 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed_sign.js, tag=京东极速版-临时, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
 
     
   ]
